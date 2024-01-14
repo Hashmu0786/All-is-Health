@@ -1,4 +1,6 @@
-# Healthier Friend Guide - A Comprehensive Solution for Healthy Aging
+## Live Link : healthierfriend.vercel.app/
+
+# All is Health Guide - A Comprehensive Solution for Healthy Aging
 
 ## Overview
 
@@ -52,36 +54,19 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-It's time for our remedy. Join the Healthier Friend community and embark on the journey to a healthier and happier life!
+It's time for our remedy. Join the All is Health community and embark on the journey to a healthier and happier life!
 
-<img width="953" alt="img1" src="https://github.com/shyam728/healthier-friend/assets/116745835/4e2d227d-e30a-41a0-a6c7-a71bfcbec814">
+![Health1](https://github.com/Hashmu0786/All-is-Health/assets/128887812/219bcd8d-0e02-49c5-9647-662c4b7d47b4)
 
+![Health2](https://github.com/Hashmu0786/All-is-Health/assets/128887812/d9429957-dd21-400d-9c53-de51c29b2b80)
 
+![Health3](https://github.com/Hashmu0786/All-is-Health/assets/128887812/1f7b7654-cae2-4e5f-840a-cdd03f2eeea2)
 
+![Health4](https://github.com/Hashmu0786/All-is-Health/assets/128887812/dd0c334a-0c85-4072-be93-de2e05075841)
 
-<img width="940" alt="img2" src="https://github.com/shyam728/healthier-friend/assets/116745835/d8e56ba2-dbbd-4b75-8fab-2d1ebc572573">
+![Health5](https://github.com/Hashmu0786/All-is-Health/assets/128887812/f7e72dd4-5829-4cfb-8699-f910166c6176)
 
-
-<img width="960" alt="img3" src="https://github.com/shyam728/healthier-friend/assets/116745835/27bdfbc6-4d1b-4500-98b8-ff78969299fb">
-
-
-
-<img width="952" alt="img4" src="https://github.com/shyam728/healthier-friend/assets/116745835/8c5a3f10-132a-4ed2-8ddd-f6f819e94496">
-
-
-
-
-
-<img width="871" alt="img5" src="https://github.com/shyam728/healthier-friend/assets/116745835/e356b3bf-1091-45a8-a094-f5f3b5e0b19b">
-
-
-<img width="959" alt="img6" src="https://github.com/shyam728/healthier-friend/assets/116745835/bd696583-190c-4d4c-b818-0330f90a2ccd">
-
-<img width="872" alt="img7" src="https://github.com/shyam728/healthier-friend/assets/116745835/d38b42aa-72dd-4087-a085-2cbf30276dbc">
-
-
-
-
+![Health6](https://github.com/Hashmu0786/All-is-Health/assets/128887812/39b6ea3c-0a45-43aa-ac1f-cc938c2bfaf6)
 
 
 
